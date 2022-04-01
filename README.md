@@ -2,11 +2,11 @@
 ﻿
 <h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/2004/2004726.png" alt="logo" height="250px"></h3>
 <p align="center">
-    <b>Instagram Auto Exploit</b><br>
+    <b>Storage Tester</b><br>
     </p>
 <hr>
 <h2>📢 Important note</h2>
-<p >If you encounter restrictions on using the API, you will need to change your ip address</p>
+<p >See Parameter For Best Use</p>
 <h2 id="contact">📧 Contact</h2>
 <p >
 <a href="https://t.me/sectoolfa"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
